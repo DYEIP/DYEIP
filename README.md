@@ -53,7 +53,9 @@ App en Flutter que ayuda con hábitos saludables.
 - 🎧 Tecnología + música
 
  🏆 Logros
--Reconocimiento CNPyPE (Etatapa estatal con prototipo teconologico).
+- Reconocimiento CNPyPE (Etatapa estatal con prototipo teconologico).
+
+
 
 
 ## 📬 Contacto
