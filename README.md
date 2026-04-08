@@ -47,10 +47,13 @@ App en Flutter que ayuda con hábitos saludables.
 
 
 
-## 📈 Objetivos
+ 📈 Objetivos
 - 🔥 Robots más inteligentes  
 - 📱 Apps con IA  
-- 🎧 Tecnología + música  
+- 🎧 Tecnología + música
+
+ 🏆 Logros
+-Reconocimiento CNPyPE (Etatapa estatal con prototipo teconologico).
 
 
 ## 📬 Contacto
